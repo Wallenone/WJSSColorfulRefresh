@@ -1,0 +1,6 @@
+framework module Pods_WJSSColorfulRefresh_Tests {
+  umbrella header "Pods-WJSSColorfulRefresh_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

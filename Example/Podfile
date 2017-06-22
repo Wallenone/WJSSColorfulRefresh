@@ -2,13 +2,5 @@ use_frameworks!
 
 target 'WJSSColorfulRefresh_Example' do
   pod 'WJSSColorfulRefresh', :path => '../'
-
-  target 'WJSSColorfulRefresh_Tests' do
-    inherit! :search_paths
-
-    pod 'Specta'
-  pod 'Expecta'
-  pod 'FBSnapshotTestCase'
-  pod 'Expecta+Snapshots'
   end
 end

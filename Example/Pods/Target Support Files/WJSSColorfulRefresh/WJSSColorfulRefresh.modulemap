@@ -1,0 +1,6 @@
+framework module WJSSColorfulRefresh {
+  umbrella header "WJSSColorfulRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
